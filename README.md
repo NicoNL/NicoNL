@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Nicolas Nino</h1>
-<h3 align="center">A passionate Cs Student</h3>
+<h3 align="center">A passionate Cs Student 👨‍💻</h3>
 <hr>
 
 -  🔭 Working on PassGen (Password Generator)
