@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Cs Student</h3>
 
 -  I’m interested in **Web Dev and App Dev**📱
--  How to reach me **nicolasninoloz@gmail.com**
-** 📫 
-
+-  How to reach me **nicolasninoloz@gmail.com** 📫
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolas-nino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-nino" height="30" width="40" /></a>
