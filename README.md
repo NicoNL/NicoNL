@@ -4,6 +4,7 @@
 -  🔭 Working on PassGen (PasswordGenerator)
 -  📱 I’m interested in **Web Dev and App Dev**
 -  📫 How to reach me **nicolasninoloz@gmail.com** 
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
