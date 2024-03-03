@@ -3,7 +3,7 @@
 <hr>
 
 -  🔭 Working on PassGen (Password Generator)
--  📫 How to reach me **nicolasninoloz@gmail.com**
+-  📫 Reach me here **nicolasninoloz@gmail.com**
 -  📱 I’m interested in **Web Dev and App Dev**
 
 <hr>
