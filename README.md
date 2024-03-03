@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Nicolas Nino</h1>
 <h3 align="center">A passionate Cs Student</h3>
 <hr>
-
+-  📱 I’m interested in **Web Dev and App Dev**
 -  📱 I’m interested in **Web Dev and App Dev**
 -  📫 How to reach me **nicolasninoloz@gmail.com** 
 
