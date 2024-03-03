@@ -1,4 +1,7 @@
 <h1 align="center">Hey there, I'm Nicolas Nino</h1>
+<div align="center">
+  <img src="https://img1.picmix.com/output/stamp/normal/9/5/6/2/2132659_1e79d.gif"/>
+</div>
 <h3 align="center">A passionate Cs Student 👨‍💻</h3>
 <hr>
 
