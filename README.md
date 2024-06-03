@@ -22,4 +22,5 @@
 <h2 align="center">Stats 📊</h3>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NicoNl&theme=dark-smoky&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NicoNL&theme=dark-smoky&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
