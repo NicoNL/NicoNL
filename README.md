@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Cs Student 👨‍💻</h3>
 <hr>
 
--  🔭 Working on PassGen (Password Generator)
+-  🔭 Working on B-Prepared (Gamefied disaster awareness)
 -  📫 Reach me here **nicolasninoloz@gmail.com**
 -  📱 I’m interested in **Web Dev and App Dev**
 
